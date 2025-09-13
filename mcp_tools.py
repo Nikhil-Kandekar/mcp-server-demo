@@ -866,7 +866,7 @@ async def get_cookies() -> str:
     name='Login-to-Github',
     description='Logs into GitHub and creates a session.'
 )
-async def login_to_github(username: str = "nikhilbkandekar@gmail.com", password: str = "Nbk@123Nbk") -> str:
+async def login_to_github(username: str, password: str ) -> str:
     """
     Logs into GitHub and stores the authenticated page object.
     
