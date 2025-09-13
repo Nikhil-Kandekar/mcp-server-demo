@@ -7,7 +7,11 @@ This project demonstrates an **MCP (Model Context Protocol) server** integration
 - Playwright-based browser automation
 - Environment variable support for credentials
 - Easily extensible for other GitHub workflows
-![](https://github.com/Nikhil-Kandekar/mcp-server-demo/blob/master/ScreenRecording2025-09-13090923-ezgif.com-video-to-gif-converter.gif)
+
+
+![](https://github.com/Nikhil-Kandekar/mcp-server-demo/blob/master/Screen%20Recording%202025-09-13%20090923.gif)
+
+
 ## 📂 Project Structure
 ```
 mcp-server-demo/
@@ -86,4 +90,5 @@ This project is licensed under the MIT License.
 ---
 
 **Author:** [Nikhil Kandekar](https://github.com/Nikhil-Kandekar)
+
 
